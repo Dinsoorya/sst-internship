@@ -1,0 +1,12 @@
+header{
+    background-color: black;
+    display: block;
+    text-align:center;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+div{
+    min-height: 400;
+}
